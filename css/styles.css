@@ -46,6 +46,89 @@ OVERRIDE MEDIA ELEMENT PLAYER STYLING
 /* ADD MORE STYLING. MAKE IT YOUR OWN. */
 
 
+.companyName {
+	padding: 20px 17px 19px 15%;
+	margin: 0;
+	float: left;
+	color: #fff;
+	width: 45%;
+	background: rgba(0,0,0,0.7);
+	font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+	font-size: 2em;
+	text-align: left;
+  font-variant: small-caps;
+  margin-bottom: 80px;
+}
+
+
+
+header {
+	float: right;
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	border-right: 20px solid rgba(0,0,0,0.7);
+}
+
+header {
+	float: left;
+	margin: 0;
+	display: inline;
+	width: 25%;
+	text-align: center;
+	background: rgba(0,0,0,0.7);
+}
+
+header  {
+	background: none;
+  font-style: bold;
+  transform: scale(1.2);
+}
+
+header {
+	text-decoration: none;
+	padding: 25px 20px;
+	color: #fff;
+	margin: 0;
+	display: inline-block;
+	text-transform: uppercase;
+	font-family: impact;
+	font-size: 1rem;
+}
+
+header {
+	outline: none;
+}
+
+
+
+html { 
+  background: url("../img/bg.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: auto 175%;
+  background-attachment: fixed;
+}
+
+body {
+	margin-top: 100px;
+	color: #fff;
+	font-family: 'Arial Narrow', Arial, sans-serif;
+	font-size: 24px;
+  
+}
+
+h1 {
+	font-size: 6em;
+	font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal, 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+	text-align: center;
+}
+
+
+
 /********************
 MEDIA QUERIES
 *******************/
